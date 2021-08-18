@@ -1,9 +1,9 @@
 
-<h1 align ="center">Generate README.md </h1>
+<h1 align="center">Quality README.md Generator </h1>
 
-![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
+
 ## Description
- To Generate a quality README file using Node.js
+ Create a Quality README generator using the Command line and Node.js
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -13,9 +13,9 @@
 - [Tests](#tests)
 - [Questions](#questions)
 ## Installation
- Inquirer installation is required for this assignment
+ Inquirer is required for this project
 ## Usage
- UCI Coding Bootcamp
+ Homework assignment for UCI Coding Bootcamp
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 <br />
@@ -23,10 +23,10 @@ This application is covered by the MIT license.
 ## Contributing
  Luke Simon
 ## Tests
- No test
+ No tests included for this project
 ## Questions
- Email<br />
+ Email me at the email below<br />
 <br />
-:octocat: Find me on GitHub: [LukeSimon32](https://github.com/LukeSimon32)<br />
+:octocat: Find me on GitHub: [Lukesimon32](https://github.com/Lukesimon32)<br />
 <br />
- Email me with any questions: lukesimon0@gmail.com<br /><br />
+ Email me with any questions: Lukesimon0@gmail.com<br /><br />
