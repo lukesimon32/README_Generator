@@ -31,6 +31,6 @@ This application is covered by the MIT license.
 ## Questions
  Email me at the email below<br />
 <br />
-:octocat: Find me on GitHub: [Lukesimon32](https://github.com/Lukesimon32)<br />
+Find me on GitHub: [Lukesimon32](https://github.com/Lukesimon32)<br />
 <br />
  Email me with any questions: Lukesimon0@gmail.com<br /><br />
