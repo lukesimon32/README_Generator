@@ -4,6 +4,8 @@
 
 ## Description
  Create a Quality README generator using the Command line and Node.js
+
+ [Link to video]: https://www.youtube.com/watch?v=hW0xtopQjnU
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
